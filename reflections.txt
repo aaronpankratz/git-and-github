@@ -1,0 +1,15 @@
+Aaron's Version Control lesson 1 Reflections
+
+1. How did viewing a diff between two versions of a file hlep you spot the bug?
+
+It was helpful because the diff reduced parts of the file that I wasn't concerned with. Reducing noise made it easier to focus on the lines of the file that contained the bug.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+By having the entire history of a file you have all development and bug fix changes. If you learn from the history of the file then you will be less likely to repeat development mistakes that resulted in bugs.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having vertsions automatically saved, like Google docs does?
+
+pros- easier to understand version history since each commit should be commented and encapsulate one logical change.
+
+cons-manual process means there is greater risk of user error.
