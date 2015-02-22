@@ -17,3 +17,7 @@ cons: manual process means there is greater risk of user error.
 4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
 Saving multiple files in one commit allows the user to group together files that have a common change. This makes it easier to organize and understand a set of changes to multiple files.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+The git log command allows you to view the time ordered sequence of commits and who authored those commits. The git diff command shows you which lines changed and the content of those changes between commits.
