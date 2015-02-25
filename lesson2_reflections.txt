@@ -9,3 +9,7 @@ The staging area is modified through git commands but the working directory can 
 3. How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area provides a place to store your changes before you commit so that you can double check to ensure that your commit contains only one logical change.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when multiple developers are coding different features into a common code base. Branches allow each developer to commit changes in parallel and only require a merge or rebase of commits when they want to integrate back into the master branch.
