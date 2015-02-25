@@ -24,4 +24,8 @@ The git log command allows you to view the time ordered sequence of commits and 
 
 6. How might using version control make you more confident to make changes that could break something?
 
-when using version control you know that you can quickly locate and revert code that breaks something. This gives you confidence because you know that you can fix anything you break.
+When using version control you know that you can quickly locate and revert code that breaks something. This gives you confidence because you know that you can fix anything you break.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to try and use Git for my personal coding projects and dot files.
