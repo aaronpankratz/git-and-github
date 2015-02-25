@@ -21,3 +21,7 @@ Saving multiple files in one commit allows the user to group together files that
 5. How can you use the commands git log and git diff to view the history of files?
 
 The git log command allows you to view the time ordered sequence of commits and who authored those commits. The git diff command shows you which lines changed and the content of those changes between commits.
+
+6. How might using version control make you more confident to make changes that could break something?
+
+when using version control you know that you can quickly locate and revert code that breaks something. This gives you confidence because you know that you can fix anything you break.
