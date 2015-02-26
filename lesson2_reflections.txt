@@ -21,3 +21,7 @@ With a diagram you can easily see all branches and all commit history in a tree 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging two branches is that all of the commits between the two branches are consolidated into one branch. It is simpler to create one node that joins the two branches and represents a merge than to actually move all of the commits in the diagram into one branch.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of Git's automatic merging is that it makes it easier for the developer, and always performs the merge in a systematic and predictable way. The Con is that sometimes the automatic merge cannot decide what the final change should be when two commits conflict on the same line, which requires manual intervention.
