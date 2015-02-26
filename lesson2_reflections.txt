@@ -14,6 +14,10 @@ The staging area provides a place to store your changes before you commit so tha
 
 When multiple developers are coding different features into a common code base. Branches allow each developer to commit changes in parallel and only require a merge or rebase of commits when they want to integrate back into the master branch.
 
- 5. How do the diagrams help you visualize the branch structure?
+5. How do the diagrams help you visualize the branch structure?
 
 With a diagram you can easily see all branches and all commit history in a tree representation.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches is that all of the commits between the two branches are consolidated into one branch. It is simpler to create one node that joins the two branches and represents a merge than to actually move all of the commits in the diagram into one branch.
