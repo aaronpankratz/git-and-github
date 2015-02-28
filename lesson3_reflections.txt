@@ -5,3 +5,9 @@ When you want to share your work with the public.
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 If Git were to automatically stay up-to-date then it may iterrupt the workflow of a user. The user would have to read all of the new commits whenever Git pulled them down and all of the context switching would be disruptive.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+The clone operation creates a local copy of a repository.
+A branch creates a copy of the latest commit in a repository.
+A fork creates a clone of a repository on github and links back to the repository being cloned from.
