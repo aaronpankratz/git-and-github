@@ -19,3 +19,7 @@ You can operate on all the remote commits without needing access to the internet
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would probably use a cloud file sharing service like dropbox or google docs/drive. It would be easier to edit the same file in real time with google docs. It would be harder to merge offline edits.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When other people are working in the same repository. The benefit of working in a separate branch is that you can create pull requests to have peers review your commits before they are integrated into the master branch. The benefit of working directly in the master branch is that it is less complex.
