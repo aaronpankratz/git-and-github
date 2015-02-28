@@ -15,3 +15,7 @@ A fork creates a clone of a repository on github and links back to the repositor
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can operate on all the remote commits without needing access to the internet.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would probably use a cloud file sharing service like dropbox or google docs/drive. It would be easier to edit the same file in real time with google docs. It would be harder to merge offline edits.
