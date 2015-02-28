@@ -11,3 +11,7 @@ If Git were to automatically stay up-to-date then it may iterrupt the workflow o
 The clone operation creates a local copy of a repository.
 A branch creates a copy of the latest commit in a repository.
 A fork creates a clone of a repository on github and links back to the repository being cloned from.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can operate on all the remote commits without needing access to the internet.
